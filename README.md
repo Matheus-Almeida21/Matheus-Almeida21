@@ -1,4 +1,4 @@
-### Olá ! Eu o Matheus
+### Olá ! Eu sou o Matheus
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-almeida-2601541b9/)
 
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Almeida21&show_icons=true&theme=tokyonight)
