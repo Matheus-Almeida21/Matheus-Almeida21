@@ -1,8 +1,8 @@
 ## Olá !! Seja muito bem vindo(a) ao meu perfil
 
 <div>
-    <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Almeida21&show_icons=true&theme=transparent">
-    <img align="right" style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Almeida21&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Almeida21&show_icons=true&theme=transparent">
+    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Almeida21&layout=compact">
 </div>
 <br>
 <div align="center">
