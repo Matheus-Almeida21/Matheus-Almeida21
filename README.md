@@ -1,10 +1,11 @@
 ## Olá !! Seja muito bem vindo(a) ao meu perfil
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Almeida21&show_icons=true&theme=transparent">
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Almeida21&layout=compact">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Matheus-Almeida21&show_icons=true&theme=transparent">
+    <img height="150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Almeida21&layout=compact">
 </div>
 <br>
+
 <div align="center">
   <div style="display: inline_block;"><br>
         <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -15,6 +16,7 @@
         <img align="center" height="30" width="40" alt="css3-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   </div>
+  
   <h1 align="center">Redes sociais e contatos</h1>
   <a href="mailto: matheus.cavallari7@gmail.com">
     <img width="30" src="gmail.svg">
@@ -23,3 +25,5 @@
     <img width="25" src="linkedin.svg">
   </a>
 </div>
+
+![Snake animation](https://github.com/Matheus-Almeida21/Matheus-Almeida21/blob/output/github-contribution-grid-snake.svg)
